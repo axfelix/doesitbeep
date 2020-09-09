@@ -1,0 +1,26 @@
+{% macro menuItem(targetPage) %}
+  <a class="menu-item {{ 'current-page' if page.url == targetPage.url else '' }}" href="{{ targetPage.url }}">
+    {{ targetPage.data.title }}
+  </a>
+{% endmacro %}
+
+<aside class="side-menu">
+  <h2>Navigation</h2>
+  <nav class="menu-root">
+    {% for home in collections.home %}
+      {{ menuItem(home) }}
+    {% endfor %}
+    <h7 class="menu-item">Fans</h7>
+    <nav class="Fans">
+      {% for fan in collections.fan %}
+        {{ menuItem(fan) }}
+      {% endfor %}
+    </nav>
+    <h7 class="menu-item">UPSes</h7>
+    <nav class="UPSes">
+      {% for ups in collections.ups %}
+        {{ menuItem(ups) }}
+      {% endfor %}
+    </nav>
+  </nav>
+</aside>

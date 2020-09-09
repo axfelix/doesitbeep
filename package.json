@@ -1,0 +1,22 @@
+{
+  "name": "doesitbeep",
+  "version": "1.0.0",
+  "description": "Does It Beep?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axfelix/doesitbeep.git"
+  },
+  "author": "Alex Garnett",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/axfelix/doesitbeep/issues"
+  },
+  "homepage": "https://github.com/axfelix/doesitbeep#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^0.11.0"
+  }
+}
