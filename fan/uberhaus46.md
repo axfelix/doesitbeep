@@ -17,7 +17,7 @@ Yes. Loudly. Whenever you turn it on or off or toggle it higher or lower.
 ## Photo
 
 <p class="text-center">
-  <img alt="Uberhaus 46" Oscillating Tower Fan src="/images/uberhaus46.jpeg" style="max-width: 700px" />
+  <img alt="Uberhaus 46" Oscillating Tower Fan src="images/uberhaus46.jpeg" style="max-width: 700px" />
 </p>
 
 
