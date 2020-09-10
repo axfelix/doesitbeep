@@ -1,10 +1,10 @@
 ---
-title: Uberhaus 46" Oscillating Tower Fan
+title: Uberhaus 46" Tower Fan
 description: Tower fan model mostly sold in Canada
 date: 2020-09-08
 ---
 
-# Uberhaus 46" Oscillating Tower Fan
+# Uberhaus 46" Tower Fan
 
 [[toc]]
 
