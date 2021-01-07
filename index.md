@@ -32,6 +32,19 @@ tags: home
   {%- endfor -%}
 </ul>
 
+## Scales
+
+<ul class="teaser-links">
+  {%- for scale in collections.scale -%}
+    <li>
+      <h6>
+        <a href="{{ scale.url }}">{{ scale.data.title }}</a>
+      </h6>
+      <p>{{ scale.data.description }}</p>
+    </li>
+  {%- endfor -%}
+</ul>
+
 ## About
 
 Some otherwise very well liked home appliances do ALL THIS UNREASONABLE BEEPING that might upset you or your dog or whoever. You can use Wirecutter or something to read more detailed reviews and recommendations like a regular modern consumer, but really, does the damn thing beep or not.
