@@ -1,10 +1,10 @@
 ---
-title: GreaterGoods Greater Goods WiFi Smart Body Composition Scale 
+title: GreaterGoods WiFi Scale 
 description: WiFi Smart Scale
 date: 2021-01-07
 ---
 
-# GreaterGoods Greater Goods WiFi Smart Body Composition Scale 
+# GreaterGoods WiFi Smart Body Composition Scale 
 
 [[toc]]
 
@@ -27,5 +27,7 @@ No.
 
 
 ## Link to Purchase
-[Amazon](https://www.amazon.com/dp/B07Q5CLWZC/?tag=thewire06-20&linkCode=xm2&ascsubtag=AwEAAAAAAAAAAdMB)
+
+[Amazon](https://www.amazon.com/dp/B07Q5CLWZC/ref=as_li_ss_tl?ascsubtag=AwEAAAAAAAAAAdMB&linkCode=ll1&tag=doesitbeep-20&linkId=fe3450ddc0eb11672dd8ecf9ee3501a1&language=en_US)
+
 [Wirecutter](https://www.nytimes.com/wirecutter/reviews/best-smart-scales/)
