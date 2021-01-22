@@ -17,5 +17,13 @@ permalink: /api/beep.json
       "description": "{{ ups.data.description }}",
       "url": "{{ ups.url }}"
     }{{ '' if loop.last else ',' }}
-  {% endfor  %}
+  {% endfor  %},
+
+  {%- for scale in collections.scale -%}
+    {
+      "title": "{{ scale.data.title | escape }}",
+      "description": "{{ scale.data.description }}",
+      "url": "{{ scale.url }}"
+    }{{ '' if loop.last else ',' }}
+  {%- endfor -%}
 ]
